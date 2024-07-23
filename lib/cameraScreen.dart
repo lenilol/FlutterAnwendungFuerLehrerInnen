@@ -1,3 +1,5 @@
+// copied and modified from: https://pub.dev/packages/camera
+
 import 'dart:async';
 import 'dart:io';
 
